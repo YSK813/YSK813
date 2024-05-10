@@ -1,5 +1,6 @@
 # Introduction
 Name : `YSK`  
-Jobs: `High school students`  
+Discord: `ysk813`  
+Jobs: `University student`  
 Language: `Japanese`  
 Program language: `Javascript`, `Python`, `C`, `C#`
